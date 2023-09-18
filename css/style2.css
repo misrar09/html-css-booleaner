@@ -5,7 +5,7 @@ body {
 .cover {
     background-image: url(../img/pattern.png);
     background-color: skyblue;
-    width: 100px;
+    width: 1900px;
     height: 180px;
 }
 
@@ -42,17 +42,12 @@ body {
     color: grey;
 }
 
-.images-tim {
-    margin-left: 10px;
-
-}
-
 .tim1 {
-    width: 970px;
+    width: 850px;
 }
 
 .tim2 {
-    width: 830px;
+    width: 728px;
 }
 
 .images-tim p {
@@ -61,7 +56,8 @@ body {
 
 main {
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
 
 }
 
@@ -89,8 +85,10 @@ table {
 }
 
 footer {
-    margin-left: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
     margin-top: 50px;
+
 }
 
 h3 {
@@ -105,3 +103,11 @@ h3 {
     margin-top: 10px;
 
 }
+
+header>.heading,
+.images-tim {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
