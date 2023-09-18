@@ -60,3 +60,32 @@ body{
 .images-tim p{
     margin-top: 0px;
 }
+
+main{
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+
+table{
+    border-color: skyblue;
+}
+
+.cell{
+    width: 250px;
+    text-align: left;
+}
+
+.td3{
+    width: 1500px;
+}
+
+.tr1{
+    background-color: skyblue;
+
+}
+
+.tr2and4{
+    background-color: rgb(192, 225, 238);
+
+}
